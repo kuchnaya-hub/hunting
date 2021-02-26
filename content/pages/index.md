@@ -51,7 +51,7 @@ sections:
     title: A new home interior for summer
     subtitle: from $149.99
     image: images/hunt-info.jpg
-    background_image: images/bgft.jpg
+    background_image: images/leaf-light-grey.svg
     cta:
       title: Discover
       url: /store
