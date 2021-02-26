@@ -5,7 +5,7 @@ price: '7000'
 title: Wolf Hut
 description: Fusce sed tortor id diam rhoncus accumsan.
 default_thumbnail_image: images/wolf.jpg
-default_original_image: images/andrew-ly-iUA1cea8QiY-unsplash.jpg
+default_original_image: images/splendid-saturn.jpg
 order: 7
 category: content/pages/category/bigplants.md
 seo:
