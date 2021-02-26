@@ -5,7 +5,7 @@ price: '50.00'
 title: Fusce sed
 description: In cursus sagittis eros non congue.
 default_thumbnail_image: images/adorable-goat.jpg
-default_original_image: images/plant8-lg.jpg
+default_original_image: images/bear.jpg
 order: 8
 category: content/pages/category/summer.md
 seo:
