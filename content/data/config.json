@@ -2,7 +2,7 @@
     "title": "Planty",
     "path_prefix": "/",
     "favicon": "images/unique-elm.png",
-    "logo_dark": "images/logo.svg",
+    "logo_dark": "images/successful-maple.png",
     "logo_light": "images/logo.png",
     "hamburger_background_image": "/images/leaf-light-grey.svg",
     "bg_image_primary_opacity": 60,
