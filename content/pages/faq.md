@@ -19,13 +19,10 @@ sections:
           gravida quis blandit turpis cursus in. Convallis tellus id interdum
           velit laoreet id donec
       - question: Curabitur gravida arcu ?
-        answer: >-
-          It happens. Even the most beautiful of plants will disappoint
-          *someone*. Again, tell it like it is:
-
-            - All discounted items sales are final.
-            - If you’d like another version of your item, please use the return label. Instructions are printed on its back.
-            - If your item is damaged or not functioning correctly, email us at info@planty.com, and we’ll refund you + send you a new one ASAP!
+        answer: >
+          Sed viverra ipsum nunc aliquet bibendum enim. Magna sit amet purus
+          gravida quis blandit turpis cursus in. Convallis tellus id interdum
+          velit laoreet id donec
       - question: Hunt curabitur gravida arcu ?
         answer: >-
           [GDPR](https://media3.giphy.com/media/1FMaabePDEfgk/giphy.gif?cid=790b76115d1fc3ed7656643632f4131f&rid=giphy.gif),
