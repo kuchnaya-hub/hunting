@@ -70,7 +70,7 @@ sections:
     background_image: images/curious-moon.jpg
 seo:
   title: Hunting Marketplace Sample
-  description: The preview of the Planty theme
+  description: The preview of the Hunting Marketplace Sample Site
   extra:
     - name: 'og:type'
       value: website
