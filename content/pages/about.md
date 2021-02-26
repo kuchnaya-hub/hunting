@@ -5,7 +5,7 @@ page_css_class: gray-background
 sections:
   - type: header_section
     section_id: header_section
-    background_image: /images/leaf-light-grey.svg
+    background_image: images/wolf.svg
     headline: About Us
     subtitle: >
       Lacus laoreet non curabitur gravida arcu. Sed viverra ipsum nunc aliquet
