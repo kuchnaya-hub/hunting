@@ -25,7 +25,7 @@ sections:
       style: secondary
       arrow: true
 seo:
-  title: Store
+  title: Hunting Sample Site
   description: This is the store page
   extra:
     - name: 'og:type'
