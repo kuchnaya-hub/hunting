@@ -5,7 +5,7 @@ page_css_class: gray-background
 sections:
   - type: header_section
     section_id: header_section
-    background_image: images/panoramic-wallaby.jpg
+    background_image: images/header-02.jpg
     headline: About Us
     subtitle: >
       Lacus laoreet non curabitur gravida arcu. Sed viverra ipsum nunc aliquet
