@@ -79,7 +79,7 @@ seo:
       value: Hunting Marketplace Sample
       keyName: property
     - name: 'og:description'
-      value: The preview of the Planty theme
+      value: The preview of the Hunting Marketplace Sample
       keyName: property
     - name: 'og:image'
       value: images/header.jpg
