@@ -35,7 +35,7 @@ seo:
       value: Hunting Sample Site
       keyName: property
     - name: 'og:description'
-      value: This is the store page
+      value: This is the sample hunting site.
       keyName: property
     - name: 'og:image'
       value: /images/imageedit_4_2778353554.png
