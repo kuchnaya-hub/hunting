@@ -57,6 +57,12 @@ sections:
       style: secondary
       arrow: true
     background_image: images/curious-moon.jpg
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    light_title: false
+    icon: false
+    featured_products: []
+    type: featured_products_section
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
