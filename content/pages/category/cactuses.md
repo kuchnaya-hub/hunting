@@ -1,5 +1,5 @@
 ---
-title: lorem
+title: AFR
 layout: category
 order: 2
 seo:
