@@ -56,6 +56,7 @@ sections:
       url: /store
       style: secondary
       arrow: true
+    background_image: images/curious-moon.jpg
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
