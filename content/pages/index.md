@@ -32,7 +32,6 @@ sections:
     icon: false
     featured_products:
       - content/pages/products/product-iwugcx39b.md
-      - content/pages/products/product-g7e437jgd.md
     type: featured_products_section
   - type: featured_categories_section
     section_id: featured_categories_section
