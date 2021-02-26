@@ -53,12 +53,10 @@ sections:
       - author:
           name: Major Payne
           location: 'VA, USA'
-        text: |-
-          Excellent hunt and beautiful country! Dirk and his 
-          crew did an awesom job! Excellent hunting, great 
-          outfit, I will definitely return some day and 
-          recommend these guys to any hunter looking for an 
-          adventure!
+        text: >-
+          Excellent hunt and beautiful country! Dirk and his crew did an awesom
+          job! Excellent hunting, great outfit, I will definitely return some
+          day and recommend these guys to any hunter looking for an adventure!
   - type: promotion_section
     section_id: promotion_section
     title: Rediscover the Hunting Experince Today
