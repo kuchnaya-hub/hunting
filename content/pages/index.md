@@ -49,7 +49,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Rediscover the Hunting Experince Today
-    subtitle: from $149.99
+    subtitle: from $1000.99
     image: images/hunt-info.jpg
     cta:
       title: Discover
