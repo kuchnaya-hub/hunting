@@ -15,7 +15,7 @@ sections:
       - content/pages/products/plant7.md
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
+    title: Rediscover the Hunting Experince Today
     subtitle: from $149.99
     image: images/enthusiastic-saturn.jpg
     background_image: images/curious-moon.jpg
