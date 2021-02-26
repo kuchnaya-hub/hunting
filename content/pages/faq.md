@@ -14,14 +14,10 @@ sections:
     section_id: faq_section
     questions:
       - question: Lacus laoreet non curabitur gravida arcu ?
-        answer: >-
-          Now that’s a frequent one all right, ain’t it? Your answer to this
-          should *manage customer expectations*. Just like [a good checkout
-          flow](http://bit.ly/2YCN3iG) should. Tell them the truth:
-
-            - US shipping will take between 3 to 5 business days.
-            - International shipping will take between 5 and 10 business days.
-            - Mars shipping will be automatically redirected to Elon Musk’s Twitter account.
+        answer: >
+          Sed viverra ipsum nunc aliquet bibendum enim. Magna sit amet purus
+          gravida quis blandit turpis cursus in. Convallis tellus id interdum
+          velit laoreet id donec
       - question: Curabitur gravida arcu ?
         answer: >-
           It happens. Even the most beautiful of plants will disappoint
