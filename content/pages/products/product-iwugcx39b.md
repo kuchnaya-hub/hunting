@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Guidance
 description: lorem-ipsum
 price: '6000'
 order: 0
