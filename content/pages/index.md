@@ -26,6 +26,13 @@ sections:
       - content/pages/products/plant3.md
       - content/pages/products/plant5.md
       - content/pages/products/plant7.md
+  - title: Hunters
+    section_id: lorem-ipsum
+    light_title: false
+    icon: false
+    featured_products:
+      - content/pages/products/product-iwugcx39b.md
+    type: featured_products_section
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories: []
@@ -57,13 +64,6 @@ sections:
       style: secondary
       arrow: true
     background_image: images/curious-moon.jpg
-  - title: Hunters
-    section_id: lorem-ipsum
-    light_title: false
-    icon: false
-    featured_products:
-      - content/pages/products/product-iwugcx39b.md
-    type: featured_products_section
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
