@@ -39,7 +39,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Rediscover the Hunting Experince Today
-    subtitle: from $149.99
+    subtitle: from $1000.99
     image: images/enthusiastic-saturn.jpg
     background_image: images/curious-moon.jpg
     cta:
