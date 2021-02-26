@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '3'
-price: '150.00'
+price: '5000'
 title: Deer Hunt
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/deer.jpg
