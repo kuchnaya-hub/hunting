@@ -5,7 +5,7 @@ price: '100.00'
 title: Donec finibus
 description: Cras molestie faucibus ipsum ut vulputate.
 default_thumbnail_image: images/robust-kale.jpg
-default_original_image: images/plant6-lg.jpg
+default_original_image: images/hunter-03.jpg
 order: 6
 category: content/pages/category/bigplants.md
 seo:
