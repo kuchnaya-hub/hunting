@@ -26,7 +26,7 @@ sections:
       arrow: true
 seo:
   title: Hunting Sample Site
-  description: This is the store page
+  description: Hunting Sample Site for demo purpose
   extra:
     - name: 'og:type'
       value: website
