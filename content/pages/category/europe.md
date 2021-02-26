@@ -1,5 +1,5 @@
 ---
-title: Plants from Europe
+title: HUNTING from Europe
 layout: category
 order: 3
 seo:
