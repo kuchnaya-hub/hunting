@@ -17,7 +17,7 @@ sections:
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
-      - title: We love plants
+      - title: Laoreet non
         description: |2+
            In iaculis nunc sed augue lacus viverra vitae congue. Non diam phasellus vestibulum lorem sed risus ultricies. Posuere lorem ipsum dolor sit amet consectetur adipiscing elit duis. Vitae congue eu consequat ac. Id aliquet risus feugiat in ante metus. Volutpat ac tincidunt vitae semper. Quis hendrerit dolor magna eget est lorem ipsum. Dolor sit amet consectetur adipiscing elit duis.
 
