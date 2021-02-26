@@ -25,12 +25,14 @@ sections:
 
         image: images/hunter-03.jpg
       - title: We think plants are the future
-        description: >-
-          Word. But good **code** _can_ solve a lots of problems, too. New _and_
-          old. That’s why we help beginners get started with web development
-          through free content and tools, like this theme. We also believe [the
-          JAMstack](https://jamstack.org/) might be one solid pillar on which we
-          build that future.
+        description: >+
+          Lacus laoreet non curabitur gravida arcu. Sed viverra ipsum nunc
+          aliquet bibendum enim. Magna sit amet purus gravida quis blandit
+          turpis cursus in. Convallis tellus id interdum velit laoreet id donec.
+          Amet volutpat consequat mauris nunc. Porta lorem mollis aliquam ut
+          porttitor leo. Donec enim diam vulputate ut. Malesuada fames ac turpis
+          egestas maecenas. Velit ut tortor pretium viverra.
+
         image: images/deer.jpg
   - type: promotion_section
     section_id: promotion_section
