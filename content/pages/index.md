@@ -69,7 +69,7 @@ sections:
       arrow: true
     background_image: images/curious-moon.jpg
 seo:
-  title: Planty Theme
+  title: Hunting Marketplace Sample
   description: The preview of the Planty theme
   extra:
     - name: 'og:type'
