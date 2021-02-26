@@ -1,5 +1,5 @@
 ---
-title: AFR
+title: AFRICA SAFARI
 layout: category
 order: 2
 seo:
