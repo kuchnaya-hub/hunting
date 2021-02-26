@@ -2,7 +2,7 @@
 id: lorem-ipsum
 title: David
 description: lorem-ipsum
-price: lorem-ipsum
+price: '4000'
 order: 0
 featured: false
 seo:
