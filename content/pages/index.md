@@ -57,7 +57,7 @@ sections:
       style: secondary
       arrow: true
     background_image: images/curious-moon.jpg
-  - title: lorem-ipsum
+  - title: Hunters
     section_id: lorem-ipsum
     light_title: false
     icon: false
