@@ -32,7 +32,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Store
+      value: Hunting Sample Site
       keyName: property
     - name: 'og:description'
       value: This is the store page
