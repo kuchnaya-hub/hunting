@@ -1,5 +1,5 @@
 ---
-title: LOREM
+title: ALASKA Hunting
 layout: category
 order: 1
 seo:
