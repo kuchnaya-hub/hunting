@@ -38,7 +38,7 @@ sections:
     section_id: contact_section
     address: "226 rue St-Joseph E, Québec, QC,\_ G1K 3A9"
     phone: +1-202-555-XXXX
-    email: geeks@snipcart.com
+    email: name@email.com
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
 seo:
   title: FAQ
