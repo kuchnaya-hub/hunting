@@ -76,7 +76,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Planty Theme
+      value: Hunting Marketplace Sample
       keyName: property
     - name: 'og:description'
       value: The preview of the Planty theme
