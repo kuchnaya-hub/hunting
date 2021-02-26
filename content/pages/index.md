@@ -37,9 +37,9 @@ sections:
           name: John Dope
           location: 'Colorado, USA'
         text: >-
-          I didn't know the Snipcart guys were into herbs as well! How beautiful
-          is that Planty theme. I'm going to launch a killer JAMstack e-commerce
-          store using this for sure.
+          had a great hunt. Billy has hunted this area for 35 years so he has
+          great knowledge of his area. where to find bucks, had good bucks
+          pre-scouted and is one of the best at glassing I've hunted with
       - author:
           name: Major Payne
           location: 'VA, USA'
