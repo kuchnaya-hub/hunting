@@ -4,7 +4,7 @@ id: '2'
 price: '99.00'
 title: Integer porta
 description: Suspendisse efficitur eget erat sit amet efficitur.
-default_thumbnail_image: images/friendly-primrose.jpg
+default_thumbnail_image: images/perpetual-kangaroo.jpg
 default_original_image: images/hunt.jpg
 order: 2
 category: content/pages/category/cactuses.md
