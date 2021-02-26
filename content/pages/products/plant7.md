@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '7'
-price: '18.90'
+price: '7000'
 title: Wolf Hut
 description: Fusce sed tortor id diam rhoncus accumsan.
 default_thumbnail_image: images/wolf.jpg
