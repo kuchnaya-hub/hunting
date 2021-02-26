@@ -2,7 +2,7 @@
 id: lorem-ipsum
 title: tinad
 description: lorem-ipsum
-price: lorem-ipsum
+price: '6000'
 order: 0
 featured: false
 seo:
