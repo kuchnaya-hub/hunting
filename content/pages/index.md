@@ -12,7 +12,7 @@ sections:
 
       get back to the hunting tradition again with us
     actions:
-      - title: See all items
+      - title: Explore All Hunts
         url: /store
         arrow: true
         style: primary
