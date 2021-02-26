@@ -1,5 +1,5 @@
 ---
-title: Cactuses
+title: lorem
 layout: category
 order: 2
 seo:
