@@ -1,5 +1,5 @@
 ---
-title: Big plants
+title: LOREM
 layout: category
 order: 1
 seo:
