@@ -24,7 +24,7 @@ sections:
 
 
         image: images/hunter-03.jpg
-      - title: We think plants are the future
+      - title: Lacus Laoreet non
         description: >+
           Lacus laoreet non curabitur gravida arcu. Sed viverra ipsum nunc
           aliquet bibendum enim. Magna sit amet purus gravida quis blandit
